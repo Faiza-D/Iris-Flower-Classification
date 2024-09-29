@@ -22,14 +22,13 @@ Use code with caution.
 
 Data
 
-The project assumes you have a CSV file named iris.csv containing the Iris flower dataset with the following columns:
+The project containing the Iris flower dataset with the following columns:
 
 sepal_length (cm)
 sepal_width (cm)
 petal_length (cm)
 petal_width (cm)
 species (Iris-setosa, Iris-versicolor, Iris-virginica)
-Replace the path in the code ('C:/PythonProject/iris flower/iris.csv') with the actual location of your CSV file.
 
 Running the Project
 
@@ -46,7 +45,7 @@ Load the Iris dataset from the CSV file.
 Explore the data (shape, class distribution, feature statistics).
 Visualize the data using Seaborn pairplots and scatterplots.
 Split the data into training and testing sets.
-Train a KNN classifier with hyperparameter tuning (default settings used in this example).
+Train a KNN classifier with hyperparameter tuning
 Evaluate the model performance using accuracy, classification report, and confusion matrix.
 Run the Tkinter GUI for interactive prediction.
 Using the GUI
@@ -64,4 +63,4 @@ Implement cross-validation to obtain more robust model evaluation.
 Enhance the GUI with additional functionalities or visualizations.
 License
 
-This project is distributed under the (insert your preferred license, e.g., MIT License). See the LICENSE file for details.
+This project is distributed under the  MIT License. See the LICENSE file for details.
